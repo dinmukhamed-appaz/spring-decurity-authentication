@@ -1,4 +1,4 @@
-package com.spring_security_authentication.demo;
+package com.spring_security_authentication.demo.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
